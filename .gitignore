@@ -19,6 +19,10 @@
 **/part1/anecdotes/node_modules
 **/**/part2/**/node_modules
 
+# .txt
+readme.txt
+.txt
+
 
 # testing
 /coverage

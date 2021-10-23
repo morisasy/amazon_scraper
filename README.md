@@ -12,5 +12,6 @@
 
 ### Toosl
 
-* [scraperapi](https://www.scraperapi.com/)
-* [amazon](https://www.amazon.com/dp/)
+* [ScraperAPI](https://www.scraperapi.com/)
+* [Amazon](https://www.amazon.com/dp/)
+* [RapidAPI](https://rapidapi.com/)
