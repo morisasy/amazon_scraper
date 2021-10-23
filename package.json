@@ -1,0 +1,28 @@
+{
+  "name": "amazon_scraper",
+  "version": "1.0.0",
+  "description": "Amazon web scraping",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "javascript",
+    "react",
+    "server",
+    "sql",
+    "nosql",
+    "API"
+  ],
+  "author": "Risasi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
